@@ -30,3 +30,5 @@ Logged in:
 
 -npm i -D react-router-dom
     
+
+npm install firebase
